@@ -1,0 +1,27 @@
+{
+    "language": "English",
+
+    "favourites": "Favourites",
+
+    "recents": "Recents",
+
+    "phoneBook": "Phone Book",
+
+    "keyBoard": "Keyboard",
+
+    "voiceMail": "Voice mail",
+
+    "contacts": "Contacts",
+
+    "list": "Contact List",
+
+    "search": "Search",
+
+    "addContact": "Add contact",
+
+    "createNewContact": "Create new contact",
+
+    "addExistingContact": "Add into existing contact"
+
+   
+}
